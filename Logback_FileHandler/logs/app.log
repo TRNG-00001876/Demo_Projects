@@ -1,0 +1,4 @@
+2024-04-13 19:19:33.573 [main] INFO  org.example.Main - This is an informational message
+2024-04-13 19:19:33.576 [main] ERROR org.example.Main - This is an error message
+2024-04-13 19:27:19.307 [main] INFO  org.example.Main - This is an informational message
+2024-04-13 19:27:19.309 [main] ERROR org.example.Main - This is an error message
