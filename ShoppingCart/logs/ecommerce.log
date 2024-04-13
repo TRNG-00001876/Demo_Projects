@@ -1,0 +1,4 @@
+2024-04-13 18:11:21,064 [main] INFO  org.example.Main - Praveenalogged in
+2024-04-13 18:11:21,093 [main] INFO  org.example.Main - Browsing products: Laptop , Phone
+2024-04-13 18:11:21,099 [main] INFO  org.example.Main - Added: Laptop and Phone
+2024-04-13 18:11:21,099 [main] INFO  org.example.Main - Checkout successful
